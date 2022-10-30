@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "75fb2061-93f6-4e67-97b4-c3f1422c4a78": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3cbb8c05-93ae-43a6-b41e-3c482fe2c48b"
+        }
+    },
+    "manufacturer": "Apple",
+    "name": "Dock Connector",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "27dfc6e9-ff66-4bc2-aa1c-5d8322785925"
+}

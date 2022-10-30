@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "MIC5365-1.8YC5-TR"
+    ],
+    "base": "20ea32ba-545e-4f25-b5ff-7399d32255bd",
+    "datasheet": [
+        true,
+        "https://ww1.microchip.com/downloads/en/DeviceDoc/MIC5501-02-03-04-300mA-Single-Output-LDO-in-Small-Packages-DS20006006B.pdf"
+    ],
+    "description": [
+        false,
+        "1.8V, 300mA LDO Voltage Regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Microchip Technology"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a30d874e-75fb-4d19-8bb1-feb5a710748d",
+    "value": [
+        true,
+        "MIC5501/2/3/4"
+    ]
+}

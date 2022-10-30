@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC8T245"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/sces584b/sces584b.pdf"
+    ],
+    "description": [
+        false,
+        "8-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translationand 3-State Outputs"
+    ],
+    "entity": "3a0d97f5-c0cc-4f26-a208-75f2749dc81a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "692031cc-4799-4723-bbe1-93f69d7b1e5c",
+    "pad_map": {
+        "031ae609-ad70-4d79-b970-60fe52ac9620": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "1c2bff48-1a79-4f3b-81f1-1171a311203c"
+        },
+        "067a3795-2aa4-4548-9d14-be5ca6cb4678": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "bca919cb-2e7d-4ca6-bf47-66191ad642aa"
+        },
+        "5489704c-b741-4ecf-a409-a5bcf02a4822": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "5c0e8103-4f5e-4073-9069-7e3fff3bc354"
+        },
+        "582e1aac-15bb-4422-84d5-48ffe9601148": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "e5b99a30-ae99-4c56-8761-828f410a5751"
+        },
+        "58a7599f-1b0c-4b45-a54d-ab4a7163b36c": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "06767151-e469-442c-9018-d95ae656da4d"
+        },
+        "59441c50-0233-4c7a-be4a-5cfd92036c7a": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "79302373-4bb6-4ce3-8e74-e7cb0b7030a2"
+        },
+        "5edd4dd0-8122-4c4b-9340-089f29442488": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "39c28a24-5711-4f5b-a501-44f7ec2a48c6"
+        },
+        "633f7e61-774b-4b89-ae3a-63e478029dff": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "124436ed-dcbf-4bf9-bd33-0d7124eb9fe4"
+        },
+        "647aa62c-bd9c-47cf-8a18-907dc99beb54": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "673fded1-f1ff-4a28-a189-f17de8344bc8"
+        },
+        "6770ec58-0ce5-4d6d-95eb-db0611755b8d": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "88123736-92c3-4426-bf0b-c8426a990f41"
+        },
+        "6bc2b970-6914-4901-b0bf-b1b8d36e3b36": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "d9417286-9610-4006-80da-33571d95a8a1"
+        },
+        "6d739961-8076-4eab-929e-cc2d0a6ab811": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "bcfefcf9-55c7-477c-9aa4-923a1981a68f"
+        },
+        "8e16b3e5-fdc0-4bba-9669-7d4f9135362c": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "ba3095db-8f8a-4320-9489-0b0836c0a023"
+        },
+        "90289935-5cfe-4fff-bda0-91a6da3d37ec": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "22a2aae1-cb36-4af0-9b36-8c3eafd08e7a"
+        },
+        "9ca9bbfa-122c-45c2-a9dc-e2c383800ce2": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "4ce5bdef-a1be-4e25-8e8a-d0546b94ee97"
+        },
+        "a2bc41b9-26c5-4228-9803-53942ee6437b": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "e5b99a30-ae99-4c56-8761-828f410a5751"
+        },
+        "bb0d1182-7f21-451c-b836-438536652652": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "bcfefcf9-55c7-477c-9aa4-923a1981a68f"
+        },
+        "c5fea67e-d8a5-4d85-b976-1d4154ddcf00": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "bcfefcf9-55c7-477c-9aa4-923a1981a68f"
+        },
+        "d3212b00-7221-4575-bff1-0b0f79044a42": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "81200925-df75-4c19-bbdc-acf9574f868d"
+        },
+        "d70c014d-85ba-4876-be95-a0ea8c45574b": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "40f5ddbf-41ff-4e96-ab43-4a4f1f09ec86"
+        },
+        "d812decc-1cba-4593-8d1b-07c1fe7b1d38": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "20abff2c-f2ca-4c69-bd0a-301d58160d32"
+        },
+        "db83a4a4-9d3d-4952-ba1b-041d082bc9a5": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "751b84fb-4ef9-4530-b7a5-42bfdc7b1e59"
+        },
+        "f9c5e842-0d1d-4cfc-ba70-5d75e67e4082": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "56e1c2b7-fb4d-4e60-b886-ec3b3f9d3753"
+        },
+        "fbe658cf-4333-4537-acf9-cb12b671d2bb": {
+            "gate": "9725fd32-59cf-40cf-a2d8-80722c7771ae",
+            "pin": "51f06a69-ea5b-4952-a19c-c351fb20e2b0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "585e15ed-3275-44a6-969f-33e13a9a7c6b",
+    "value": [
+        false,
+        ""
+    ]
+}

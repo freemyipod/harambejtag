@@ -1,0 +1,134 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC8T245",
+    "pins": {
+        "06767151-e469-442c-9018-d95ae656da4d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "124436ed-dcbf-4bf9-bd33-0d7124eb9fe4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A7",
+            "swap_group": 0
+        },
+        "1c2bff48-1a79-4f3b-81f1-1171a311203c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A4",
+            "swap_group": 0
+        },
+        "20abff2c-f2ca-4c69-bd0a-301d58160d32": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "22a2aae1-cb36-4af0-9b36-8c3eafd08e7a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B4",
+            "swap_group": 0
+        },
+        "39c28a24-5711-4f5b-a501-44f7ec2a48c6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A6",
+            "swap_group": 0
+        },
+        "40f5ddbf-41ff-4e96-ab43-4a4f1f09ec86": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B5",
+            "swap_group": 0
+        },
+        "4ce5bdef-a1be-4e25-8e8a-d0546b94ee97": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "51f06a69-ea5b-4952-a19c-c351fb20e2b0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VccA",
+            "swap_group": 0
+        },
+        "56e1c2b7-fb4d-4e60-b886-ec3b3f9d3753": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OEn",
+            "swap_group": 0
+        },
+        "5c0e8103-4f5e-4073-9069-7e3fff3bc354": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "673fded1-f1ff-4a28-a189-f17de8344bc8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A5",
+            "swap_group": 0
+        },
+        "751b84fb-4ef9-4530-b7a5-42bfdc7b1e59": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "79302373-4bb6-4ce3-8e74-e7cb0b7030a2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B0",
+            "swap_group": 0
+        },
+        "81200925-df75-4c19-bbdc-acf9574f868d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B7",
+            "swap_group": 0
+        },
+        "88123736-92c3-4426-bf0b-c8426a990f41": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B6",
+            "swap_group": 0
+        },
+        "ba3095db-8f8a-4320-9489-0b0836c0a023": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A3",
+            "swap_group": 0
+        },
+        "bca919cb-2e7d-4ca6-bf47-66191ad642aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B3",
+            "swap_group": 0
+        },
+        "bcfefcf9-55c7-477c-9aa4-923a1981a68f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d9417286-9610-4006-80da-33571d95a8a1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "e5b99a30-ae99-4c56-8761-828f410a5751": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VccB",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "90158286-8d46-43ad-b9d4-0b4995209b07"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9725fd32-59cf-40cf-a2d8-80722c7771ae": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "90158286-8d46-43ad-b9d4-0b4995209b07"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC8T245",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "3a0d97f5-c0cc-4f26-a208-75f2749dc81a"
+}

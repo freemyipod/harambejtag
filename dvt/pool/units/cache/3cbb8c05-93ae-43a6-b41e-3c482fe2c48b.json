@@ -1,0 +1,194 @@
+{
+    "manufacturer": "Apple",
+    "name": "Dock Connector",
+    "pins": {
+        "085be653-b5d0-4b0e-ab76-56ea4589ea32": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "25",
+            "swap_group": 0
+        },
+        "09aae040-4001-4ad9-ac09-8583b4bcf92f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "0c899a4f-cebe-4a78-b09f-790b0ada7cf8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "0d7fdb7d-b91a-4ad9-93ad-d45dae2b792b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "28eb1ca1-a1aa-4e9a-800e-9a470cc6ea5b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "2b7cc57e-9d00-43c6-abce-b59b5e4d7b7d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "2fba7847-6b27-4108-a159-2fe2167a50ed": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "MECH",
+            "swap_group": 0
+        },
+        "3c53e51a-444f-40e8-b11c-76c1df053aaf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "21",
+            "swap_group": 0
+        },
+        "3dcf172f-0371-4965-aecd-6769ccae5298": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "57db749c-23a1-4932-8454-f069af4d630c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "58d1f365-110f-453b-8a28-cc22da674bca": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "27",
+            "swap_group": 0
+        },
+        "58d1f5b0-9333-4b99-aa77-6d726b0f4234": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "30",
+            "swap_group": 0
+        },
+        "6b6510ed-c0d2-4c70-9330-28d497c9174a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "72b9eb1f-47dd-4704-a43d-1224ae484d5f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "22",
+            "swap_group": 0
+        },
+        "78141c0b-c693-42a4-902f-ce4d28d3dd7d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "24",
+            "swap_group": 0
+        },
+        "782fa308-b91a-4932-b3d1-0fef4f934a35": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "8018c076-1498-40ae-99d4-61ee07cda03e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "867535a5-8ae0-4aef-8423-4d1d02f82eee": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "29",
+            "swap_group": 0
+        },
+        "937e1018-30e7-4e2c-9bb1-38d5b565dd27": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "23",
+            "swap_group": 0
+        },
+        "93f8257a-b4ff-4c55-99a8-53130d6cca43": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "20",
+            "swap_group": 0
+        },
+        "a1b5e53b-1e41-48ca-b493-3501fc64a287": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "acc80755-aa84-463b-a8d2-bd525a5e7d79": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "b97dfdca-d67e-4575-a425-33eba7fca4f8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "bff3b772-63a3-47b6-a147-3f69ed397f66": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "26",
+            "swap_group": 0
+        },
+        "ce92e382-8a57-42d8-966d-386e520fef90": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "d839d2d1-e345-4fe1-a0a1-2a5987a23204": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "18",
+            "swap_group": 0
+        },
+        "e5bbcfa7-e5ee-4e2b-b735-6541bfe2566c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "19",
+            "swap_group": 0
+        },
+        "e80a148c-3bad-44a9-8bf1-1cab56fb3e2f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "f3da15f1-4541-4bda-b9db-86a7c5e8612b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "28",
+            "swap_group": 0
+        },
+        "f9b47e0a-c29a-400b-bb80-52b310ea595e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "fdaac2e5-4752-4329-9958-0d4028266131": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3cbb8c05-93ae-43a6-b41e-3c482fe2c48b"
+}

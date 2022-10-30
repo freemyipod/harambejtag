@@ -1,0 +1,11 @@
+{
+    "blocks": {
+        "41632702-b313-4206-9701-44a6f7efb4af": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        }
+    },
+    "top_block": "41632702-b313-4206-9701-44a6f7efb4af",
+    "type": "blocks"
+}

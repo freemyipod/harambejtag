@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "ABLS"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/3/abls-1664338.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Crystal"
+    ],
+    "entity": "5159b99a-7b6d-48f7-8588-d0b503cdd8d8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ABRACON"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "28c6d2e6-53b1-4741-b845-d4fc985bc365",
+    "pad_map": {
+        "71c5b4bc-2728-4bfa-be90-da244fb01957": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "d76bf0c5-7db9-4fad-9aff-6cc66847fcbe": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "5298411b-fd12-43a6-b49e-36fba23428fc",
+    "value": [
+        false,
+        ""
+    ]
+}
