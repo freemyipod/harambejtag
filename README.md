@@ -21,3 +21,8 @@ Manufacturing
 ---
 
 Currently q3k is making a few of these for testing. There is no plan for a larger batch right now, but you are free to manufacture your own.
+
+License
+---
+
+Hardware designs are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. See dvt/LICENSE.txt for more information.
