@@ -15,7 +15,7 @@ JTAG probe in development, mostly halted due to [JTAG lock-out issue](https://fr
 Firmware
 ---
 
-TODO(q3k): publish once cleaned up
+In `firmware/`. No public builds / releases available yet, build it yourself.
 
 Manufacturing
 ---
