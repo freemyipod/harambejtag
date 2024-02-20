@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "dvt1",
+    "jtag",
+]
+resolver = "2"
